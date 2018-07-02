@@ -27,7 +27,7 @@ footer {
   height: 100vh;
   flex-direction: column;
 }
-.main {
+main {
   display: flex;
   background-color: white;
   width: 100%;
